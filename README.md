@@ -2,6 +2,7 @@
 FA plus - user script is designed to improve the use of the site furaffinity.net both visually and technically.
 
 Для работы требует расширения Tampermonkey или подобного!
+
 Requires Tampermonkey or the like to work!
 
 Обновления на будущие:
