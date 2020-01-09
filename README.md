@@ -8,6 +8,7 @@ Requires Tampermonkey or the like to work!
 1) больше возможности кастомизировать интерфейс.
 2) сделать меню более удобным ждя настройки.
 3) сделать уведомление в меню о новых постах любимых художников (???)
+
 Future updates:
 1) more ability to customize the interface.
 2) make the menu more convenient while waiting for settings.
