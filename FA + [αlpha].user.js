@@ -4,7 +4,7 @@
 // @website      https://www.furaffinity.net/user/dearfox/
 // @website      https://github.com/DearFox/
 // @website      https://www.youtube.com/DearFox
-// @version      αlpha⠀1.3
+// @version      αlpha⠀1.3.1
 // @description  FA plus - user script is designed to improve the use of the site furaffinity.net both visually and technically.
 // @downloadUrl  https://github.com/DearFox/FA-plus/raw/master/FA%20%2B%20%5B%CE%B1lpha%5D.user.js
 // @updateUrl    https://github.com/DearFox/FA-plus/raw/master/FA%20%2B%20%5B%CE%B1lpha%5D.user.js
